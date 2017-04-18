@@ -120,6 +120,7 @@
 * [**Stardew Valley**](http://stardewvalley.net/), by Eric Barone.
 * [**Star Guard**](http://vacuumflowers.com/projects), by Loren *Sparky* Schmidt.
 * [**Stasis**](http://www.stasisgame.com), by Christopher Bischoff.
+* [**Stephen's Sausage Roll**](http://www.stephenssausageroll.com/), by Stephen Lavelle.
 * [**Super Hexagon**](http://superhexagon.com/), by Terry Cavanagh.
 * [**Survive The Forest**](http://survivetheforest.com/), by Ben Falcone.
 
