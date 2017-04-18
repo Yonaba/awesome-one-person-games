@@ -47,6 +47,7 @@
 
 * [**Fancy Pants Adventures**](https://en.wikipedia.org/wiki/Fancy_Pants_Adventures), by Brad Borne.
 * [**Five Nights at Fredddy's**](https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(series)), by Scott Cawthon.
+* [**Flappy Bird**](https://en.wikipedia.org/wiki/Flappy_Bird), by Nguyễn Hà Đông.
 * [**Flix The Flea**](http://www.psychoticpsoftware.com/thegames_flixtheflea.html), by Mike Hanson.
 
 ## G
