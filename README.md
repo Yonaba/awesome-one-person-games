@@ -117,6 +117,7 @@
 ## R
 
 * [**Replica**](https://somigames.com/replica/), by SOMI.
+* [**Return Of The Obra Dinn**](http://dukope.itch.io/return-of-the-obra-dinn), by Lucas *Dukope* Pope.
 * [**Retro City Rampage**](http://www.retrocityrampage.com/), by Brian Provinciano.
 * [**RollerCoaster Tycoon**](http://www.rollercoastertycoon.com/) *series*, by Chris Sawyer.
 
