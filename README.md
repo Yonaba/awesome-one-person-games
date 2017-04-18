@@ -24,6 +24,7 @@
 
 * [**Capoeira Fighter**](http://www.shockwave.com/gamelanding/capfighter3.jsp), by Scott Stoddard.
 * [**Captain Forever**](http://www.captainforever.com/captainforever.php), by Jared *Farbs* Woods.
+* [**Cardinal Quest**](http://cardinalquest.com), by Ido Yehieli.
 * [**Cave Story**](http://www.cavestory.org/) (窟物語, *Doukutsu Monogatari*), by Daisuke *Pixel* Amaya.
 * [**Cibele**](http://ninasays.so/cibele/), by Nina Freeman.
 * [**Crimsonland**](http://www.crimsonland.com/), by Tero Alatalo.
