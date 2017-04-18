@@ -61,6 +61,7 @@
 
 ## H
 
+* [**Hacknet**](http://www.hacknet-os.com/), by Matt Trobbiani. 
 * [**Hammerfight**](https://en.wikipedia.org/wiki/Hammerfight), by Konstantin Koshutin.
 
 ## I
@@ -184,6 +185,7 @@
 * [Reddit - *r/gamedev 1-man games ?*](https://www.reddit.com/r/gamedev/comments/1lkt4b/1_man_games/)
 * [IGN - *Awesome games made by one person*](http://www.ign.com/articles/2011/07/13/awesome-games-made-by-one-person)
 * [Redbull - *One man band: The amazing games made by solo devs*](http://www.redbull.com/en/games/stories/1331641596875/one-man-band-the-amazing-games-made-by-solo-devs)
+* [RollingStone - *Solo Indie Game Development – Not for Faint of Heart*](http://www.rollingstone.com/culture/news/solo-indie-game-development-not-for-faint-of-heart-20160603)
 
 ## Contributing
 
