@@ -7,6 +7,7 @@
 
 ## A
 
+* [**A Bird Story**](http://freebirdgames.com/fr/games/a-bird-story/), by Kan Gao.
 * [**Another World**](http://www.anotherworld.fr/), by Eric Chahi.
 * [**Axiom Verge**](http://www.axiomverge.com), by Thomas Happ.
 
