@@ -45,7 +45,7 @@
 * [**End Space**](http://endspacevr.com/), by Justin Wasilenko.
 * [**Environmental Station Alpha**](http://www.hempuli.com/esa/), by Arvi *Hempuli* Teikari.
 * [**Ethereal Legends**](http://www.ethereallegends.com/), by Scott McCutchen.
-* [**Every Shooter**](https://www.everydayshooter.com/), by Jonathan Mak.
+* [**Everyday Shooter**](https://www.everydayshooter.com/), by Jonathan Mak.
 
 ## F
 
