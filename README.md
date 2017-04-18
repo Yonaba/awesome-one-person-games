@@ -16,6 +16,7 @@
 * [**Agar.io**](), by Matheus Valadares.
 * [**Another World**](http://www.anotherworld.fr/), by Eric Chahi.
 * [**Antichamber**](http://www.antichamber-game.com/), by Alexander Bruce.
+* [**Atom Zombie Smasher**](http://blendogames.com/atomzombiesmasher/), by Brendon *Blendo* Chung.
 * [**Axiom Verge**](http://www.axiomverge.com), by Thomas Happ.
 
 ## B
@@ -58,11 +59,13 @@
 * [**Five Nights at Fredddy's**](https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s_(series)), by Scott Cawthon.
 * [**Flappy Bird**](https://en.wikipedia.org/wiki/Flappy_Bird), by Nguyễn Hà Đông.
 * [**Flix The Flea**](http://www.psychoticpsoftware.com/thegames_flixtheflea.html), by Mike Hanson.
+* [**Flotilla**](http://blendogames.com/flotilla/), by Brendon *Blendo* Chung.
 
 ## G
 
 * [**Geometry Wars: Retro Evolved**](https://en.wikipedia.org/wiki/Geometry_Wars:_Retro_Evolved), by Stephen Cakebread.
 * [**Grand Prix 2**](https://en.wikipedia.org/wiki/Grand_Prix_2), by Geoff Hammond.
+* [**Gravity Bone**](http://blendogames.com/older.htm#gravitybone), by Brendon *Blendo* Chung.
 * [**Guardians Of Altarris**](http://www.shockwave.com/gamelanding/guardians.jsp), by Scott Stoddard.
 * [**Guild Of Dungeoneering**](http://www.guildofdungeoneering.com/), by Colm Larkin.
 * [**Gunpoint**](http://gunpointgame.com/), by Tom Francis.
@@ -127,7 +130,7 @@
 
 ## Q
 
-
+* [**Quadrilateral Cowboy**](http://blendogames.com/qc/), by Brendon *Blendo* Chung.
 
 ## R
 
@@ -166,6 +169,7 @@
 * [**The Dungeoning**](http://www.thedungeoning.com/), by Nick Donnelly.
 * [**The Escapists**](http://escapistgame.com/), by Chris Davis.
 * [**The Floor Is Jelly**](https://thefloorisjelly.com/), by Ian Snyder.
+* [**Thirty Flights Of Loving**](http://blendogames.com/thirtyflightsofloving/), by Brendon *Blendo* Chung.
 * [**Thomas Was Alone**](http://www.mikebithellgames.com/thomaswasalone/), by Mike Bithell.
 * [**Tiny Wings**](http://www.andreasilliger.com/), by Andreas Illinger.
 * [**To The Moon**](http://freebirdgames.com/to_the_moon/), by Kan Gao.
