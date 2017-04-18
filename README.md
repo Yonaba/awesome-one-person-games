@@ -161,6 +161,7 @@
 * [**Thomas Was Alone**](http://www.mikebithellgames.com/thomaswasalone/), by Mike Bithell.
 * [**Tiny Wings**](http://www.andreasilliger.com/), by Andreas Illinger.
 * [**To The Moon**](http://freebirdgames.com/to_the_moon/), by Kan Gao.
+* [**Tomb Of Tyrants**](http://tot.jhuhman.com/), by Jake Huhman.
 * [**Touhou Project**](https://en.wikipedia.org/wiki/Touhou_Project) (東方 *Project Tōhō Purojekuto*), by ZUN.
 * [**Tower Of Guns**](http://www.towerofguns.com/), by Joe Mirabello.
 * [**Transport Tycoon**](http://www.transporttycoon.com/), by Chris Sawyer.
