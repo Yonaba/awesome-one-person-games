@@ -190,6 +190,7 @@
 ## V
 
 * [**Vanguard Princess**](www.vanguardprincess.com)(ヴァンガードプリンセス *Vangaado Purinsesu*), by Tomoaki Sugeno.
+* [**Voidspire Tactics**](http://www.voidspire.com), by Rad Codex.
 * [**VVVVVV**](http://thelettervsixtim.es/), by Terry Cavanagh.
 
 ## W
