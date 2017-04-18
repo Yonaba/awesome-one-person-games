@@ -90,6 +90,7 @@
 * [**Mahjong Solitaire**](https://en.wikipedia.org/wiki/Mahjong_solitaire), by Brodie Lockard.
 * [**Mari0**](http://stabyourself.net/mari0/), by Maurice Guégan.
 * [**M.A.V.**](https://bombdogstudios.com), by Chad Mauldin.
+* [**Meganoid(2017)**](http://www.orangepixel.net/meganoid/), by Pascal Bestebroer.
 * [**Meridian: New World**](http://meridian-game.com/), by Ede Tarsoly.
 * [**Minecraft**](https://minecraft.net), by Markus *Notch* Persson.
 * [**Mud And Blood *series***](http://www.mudandblood.net/wiki/index.php?title=Main_Page), by Urb.
