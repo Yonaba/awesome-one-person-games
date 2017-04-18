@@ -140,9 +140,11 @@
 
 ## S
 
+* [**SCP - Containment Breach**](http://scpcbgame.com/), by Joonas Rikkonen.
 * [**Shiny Gauntlet**](https://www.shinygauntlet.com/), by Glen Henry.
 * [**Shoot First**](http://teknopants.com/2011/05/shoot-first/), by Beau Blyth.
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
+* [**Slender: The Eight Pages**](http://www.parsecproductions.net/slender/), by Mark J. Hadley.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
 * [**SpaceTeam**](http://spaceteam.ca/), by Henry Smith.
 * [**Spelunky classic**](http://www.spelunkyworld.com/original.html), by Derek Yu.
