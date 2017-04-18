@@ -9,6 +9,7 @@
 
 * [**A Bird Story**](http://freebirdgames.com/fr/games/a-bird-story/), by Kan Gao.
 * [**A Dark Room**](http://adarkroom.doublespeakgames.com/), by Michael Townsend.
+* [**Agar.io**](), by Matheus Valadares.
 * [**Another World**](http://www.anotherworld.fr/), by Eric Chahi.
 * [**Antichamber**](http://www.antichamber-game.com/), by Alexander Bruce.
 * [**Axiom Verge**](http://www.axiomverge.com), by Thomas Happ.
