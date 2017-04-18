@@ -115,7 +115,7 @@
 
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
-* [**Spelunky**](http://spelunkyworld.com/), by Derek Yu.
+* [**Spelunky classic**](http://www.spelunkyworld.com/original.html), by Derek Yu.
 * [**Stardew Valley**](http://stardewvalley.net/), by Eric Barone.
 * [**Star Guard**](http://vacuumflowers.com/projects), by Loren *Sparky* Schmidt.
 * [**Stasis**](http://www.stasisgame.com), by Christopher Bischoff.
