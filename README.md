@@ -88,6 +88,7 @@
 * [**M.A.V.**](https://bombdogstudios.com), by Chad Mauldin.
 * [**Meridian: New World**](http://meridian-game.com/), by Ede Tarsoly.
 * [**Minecraft**](https://minecraft.net), by Markus *Notch* Persson.
+* [**Mud And Blood *series***](http://www.mudandblood.net/wiki/index.php?title=Main_Page), by Urb.
 
 ## N
 
