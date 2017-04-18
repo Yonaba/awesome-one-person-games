@@ -93,6 +93,7 @@
 
 * [**Karateka**](http://www.jordanmechner.com/projects/karateka-remake/), by Jordan Mechner.
 * [**Karoshi**](http://www.karoshigame.com/), by Jesse Venbrux.
+* [**Knights Of The Chalice**](), by .
 * [**Knytt**](https://www.knyttunderground.com/), by Nicklas *Nyfflas* Nygren.
 
 ## L
@@ -164,6 +165,7 @@
 
 ## T
 
+* [**Telepath Tactics**](http://sinisterdesign.net/products/telepath-tactics/), by Craig Stern.
 * [**Tempest 2000**](https://en.wikipedia.org/wiki/Tempest_2000), by Jeff Minter.
 * [**Tetris**](https://en.wikipedia.org/wiki/Tetris), by Alexei Pajitnov.
 * [**The Consuming Shadow**](http://www.theconsumingshadow.com/), by Ben *Yahtzee* Croshaw.
@@ -183,6 +185,7 @@
 
 ## U
 
+* [**UnderRail**](http://www.underrail.com/), by Dejan Radisic.
 * [**Undertale**](http://undertale.com/), by Toby Fox.
 * [**Unfinished - An Artist's Lament**](http://unfinished.fromdustscratch.com/), by Andrew Hlynka.
 * [**Unturned**](http://smartlydressedgames.com/#unturned), by Nelson Sexton.
