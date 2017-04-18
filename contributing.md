@@ -4,7 +4,7 @@ This list is meant to provide an overview of high-quality games made by a solo g
 
 * It **must have been entirely programmed and designed by only one person**. This person might have made the assets, music, production, or might have gotten some extra-help for those parts, or might have bought/purchased or obtained them for free. But indeed, at the very minimum least, the entire programming and design should have been done by a single person.
 
-* It should have a **substantial media exposure**. For example, it should be **easy to find over the Internet**, **have a public website** or **a project page** on popular indie gamedev boards (such as [IndieDB](http://indiedb.com/), [Steam](http://store.steampowered.com/),...).
+* It should have a **substantial media exposure**. For example, it should be **easy to find over the Internet**, **have a public website** or **a project page** on popular indie gamedev boards (such as [IndieDB](http://indiedb.com/), [Steam](http://store.steampowered.com/), ...).
 
 * It should have received **good critics** and **good ratings** over the Internet and forums. Being featured on popular gaming news boards ([IGN](http://www.ign.com/), [Gamasutra](http://www.gamasutra.com/), [GamesRadar+](http://www.gamesradar.com/), [GameSpew](https://www.gamespew.com/), ...) would be a plus. 
 
