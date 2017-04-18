@@ -145,6 +145,7 @@
 * [**Startup Company: The Game**](http://www.startupcompanygame.com), by J. Hovgaard.
 * [**Stasis**](http://www.stasisgame.com), by Christopher Bischoff.
 * [**Stephen's Sausage Roll**](http://www.stephenssausageroll.com/), by Stephen Lavelle.
+* [**Submachine *series***](http://www.mateuszskutnik.com/submachine), by Mateusz Skutnik.
 * [**Super Hexagon**](http://superhexagon.com/), by Terry Cavanagh.
 * [**Survive The Forest**](http://survivetheforest.com/), by Ben Falcone.
 
@@ -161,6 +162,7 @@
 * [**Tiny Wings**](http://www.andreasilliger.com/), by Andreas Illinger.
 * [**To The Moon**](http://freebirdgames.com/to_the_moon/), by Kan Gao.
 * [**Touhou Project**](https://en.wikipedia.org/wiki/Touhou_Project) (東方 *Project Tōhō Purojekuto*), by ZUN.
+* [**Tower Of Guns**](http://www.towerofguns.com/), by Joe Mirabello.
 * [**Transport Tycoon**](http://www.transporttycoon.com/), by Chris Sawyer.
 
 ## U
