@@ -42,6 +42,7 @@
 ## E
 
 * [**End Space**](http://endspacevr.com/), by Justin Wasilenko.
+* [**Environmental Station Alpha**](http://www.hempuli.com/esa/), by Arvi *Hempuli* Teikari.
 * [**Ethereal Legends**](http://www.ethereallegends.com/), by Scott McCutchen.
 * [**Every Shooter**](https://www.everydayshooter.com/), by Jonathan Mak.
 
@@ -65,6 +66,7 @@
 
 * [**Hacknet**](http://www.hacknet-os.com/), by Matt Trobbiani. 
 * [**Hammerfight**](https://en.wikipedia.org/wiki/Hammerfight), by Konstantin Koshutin.
+* [**HyperRogue**](http://roguetemple.com/z/hyper/), by Zeno Rogue.
 
 ## I
 
