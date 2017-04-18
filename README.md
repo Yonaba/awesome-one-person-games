@@ -8,6 +8,7 @@
 ## A
 
 * [**A Bird Story**](http://freebirdgames.com/fr/games/a-bird-story/), by Kan Gao.
+* [**A Dark Room**](http://adarkroom.doublespeakgames.com/), by Michael Townsend.
 * [**Another World**](http://www.anotherworld.fr/), by Eric Chahi.
 * [**Axiom Verge**](http://www.axiomverge.com), by Thomas Happ.
 
@@ -131,6 +132,7 @@
 * [**Shiny Gauntlet**](https://www.shinygauntlet.com/), by Glen Henry.
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
+* [**SpaceTeam**](http://spaceteam.ca/), by Henry Smith.
 * [**Spelunky classic**](http://www.spelunkyworld.com/original.html), by Derek Yu.
 * [**Stardew Valley**](http://stardewvalley.net/), by Eric Barone.
 * [**Star Guard**](http://vacuumflowers.com/projects), by Loren *Sparky* Schmidt.
