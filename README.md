@@ -35,6 +35,7 @@
 ## E
 
 * [**End Space**](http://endspacevr.com/), by Justin Wasilenko.
+* [**Ethereal Legends**](http://www.ethereallegends.com/), by Scott McCutchen.
 * [**Every Shooter**](https://www.everydayshooter.com/), by Jonathan Mak.
 
 ## F
