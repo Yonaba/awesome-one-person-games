@@ -223,6 +223,7 @@
 * [IGN - *Awesome games made by one person*](http://www.ign.com/articles/2011/07/13/awesome-games-made-by-one-person)
 * [Redbull - *One man band: The amazing games made by solo devs*](http://www.redbull.com/en/games/stories/1331641596875/one-man-band-the-amazing-games-made-by-solo-devs)
 * [RollingStone - *Solo Indie Game Development – Not for Faint of Heart*](http://www.rollingstone.com/culture/news/solo-indie-game-development-not-for-faint-of-heart-20160603)
+* [Reddit - *Best games developed by a solo developer*](https://www.reddit.com/r/IndieGaming/comments/3y2kmr/best_games_developed_by_a_solo_developer/?st=j1ns5hrz&sh=793ed0d3)
 
 ## Contributing
 
