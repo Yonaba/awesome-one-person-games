@@ -71,6 +71,7 @@
 ## I
 
 * [**Iconoclasts**](http://www.konjak.org/), by Joakim Sandberg.
+* [**Iji**](http://www.remar.se/daniel/iji.php), by Daniel Remar.
 * [**I MAED A GAM3 W1TH Z0MBIES 1N IT!!!1**](http://marketplace.xbox.com/en-US/Product/I-MAED-A-GAM3-W1TH-Z0MB1ES-1/66acd000-77fe-1000-9115-d802585502a6), by James Silva.
 * [**Intrusion2**](http://www.intrusion2.com/), by Aleksey Abramenko.
 
@@ -149,6 +150,7 @@
 
 * [**Tempest 2000**](https://en.wikipedia.org/wiki/Tempest_2000), by Jeff Minter.
 * [**Tetris**](https://en.wikipedia.org/wiki/Tetris), by Alexei Pajitnov.
+* [**The Consuming Shadow**](http://www.theconsumingshadow.com/), by Ben *Yahtzee* Croshaw.
 * [**The Dishwasher: *Dead Samurai***](http://marketplace.xbox.com/en-US/Product/The-Dishwasher/66acd000-77fe-1000-9115-d80258410902), by James Silva.
 * [**The Dungeoning**](http://www.thedungeoning.com/), by Nick Donnelly.
 * [**The Escapists**](http://escapistgame.com/), by Chris Davis.
