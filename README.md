@@ -10,6 +10,7 @@
 * [**A Bird Story**](http://freebirdgames.com/fr/games/a-bird-story/), by Kan Gao.
 * [**A Dark Room**](http://adarkroom.doublespeakgames.com/), by Michael Townsend.
 * [**Another World**](http://www.anotherworld.fr/), by Eric Chahi.
+* [**Antichamber**](http://www.antichamber-game.com/), by Alexander Bruce.
 * [**Axiom Verge**](http://www.axiomverge.com), by Thomas Happ.
 
 ## B
@@ -155,6 +156,7 @@
 * [**The Dishwasher: *Dead Samurai***](http://marketplace.xbox.com/en-US/Product/The-Dishwasher/66acd000-77fe-1000-9115-d80258410902), by James Silva.
 * [**The Dungeoning**](http://www.thedungeoning.com/), by Nick Donnelly.
 * [**The Escapists**](http://escapistgame.com/), by Chris Davis.
+* [**The Floor Is Jelly**](https://thefloorisjelly.com/), by Ian Snyder.
 * [**Thomas Was Alone**](http://www.mikebithellgames.com/thomaswasalone/), by Mike Bithell.
 * [**Tiny Wings**](http://www.andreasilliger.com/), by Andreas Illinger.
 * [**To The Moon**](http://freebirdgames.com/to_the_moon/), by Kan Gao.
