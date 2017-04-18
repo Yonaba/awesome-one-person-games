@@ -136,6 +136,7 @@
 
 ## U
 
+* [**Undertale**](http://undertale.com/), by Toby Fox.
 * [**Unfinished - An Artist's Lament**](http://unfinished.fromdustscratch.com/), by Andrew Hlynka.
 * [**Unturned**](http://smartlydressedgames.com/#unturned), by Nelson Sexton.
 
