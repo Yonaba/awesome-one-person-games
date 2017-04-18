@@ -127,6 +127,7 @@
 
 ## S
 
+* [**Shiny Gauntlet**](https://www.shinygauntlet.com/), by Glen Henry.
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
 * [**Spelunky classic**](http://www.spelunkyworld.com/original.html), by Derek Yu.
