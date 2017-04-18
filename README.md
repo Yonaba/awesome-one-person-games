@@ -26,6 +26,7 @@
 * [**Captain Forever**](http://www.captainforever.com/captainforever.php), by Jared *Farbs* Woods.
 * [**Cave Story**](http://www.cavestory.org/) (窟物語, *Doukutsu Monogatari*), by Daisuke *Pixel* Amaya.
 * [**Crimsonland**](http://www.crimsonland.com/), by Tero Alatalo.
+* [**Cogmind**](http://www.gridsagegames.com/cogmind/), by Josh *Kyzrati* Ge.
 
 ## D
 
