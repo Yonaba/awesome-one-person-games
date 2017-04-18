@@ -3,7 +3,11 @@
 > A curated list of successul games, made entirely (or quite) entirely by a lone gamedev.
 
 ## Contents
-[A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [X](#x) • [Y](#y) • [Z](#z)
+[0](#0) • [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [X](#x) • [Y](#y) • [Z](#z)
+
+## 0
+
+* [**0space**](http://teknopants.com/2012/04/0space/), by Beau Blyth.
 
 ## A
 
@@ -137,6 +141,7 @@
 ## S
 
 * [**Shiny Gauntlet**](https://www.shinygauntlet.com/), by Glen Henry.
+* [**Shoot First**](http://teknopants.com/2011/05/shoot-first/), by Beau Blyth.
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
 * [**SpaceTeam**](http://spaceteam.ca/), by Henry Smith.
