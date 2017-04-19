@@ -115,6 +115,7 @@
 
 ## L
 
+* [**Lieve Oma**](https://vltmn.itch.io/lieve-oma), by Florian Veltman.
 * [**Lone Survivor**](http://www.lonesurvivor.co.uk/), by Jasper Byrne.
 * [**Lost Soul Aside**](https://www.facebook.com/lostsoulaside/), by Bing Yang.
 * [**Love**](http://www.quelsolaar.com/love/), by Eskil Steenberg.
