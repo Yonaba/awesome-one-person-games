@@ -54,6 +54,7 @@
 * [**Cave Story**](http://www.cavestory.org/) (窟物語, *Doukutsu Monogatari*), by Daisuke *Pixel* Amaya.
 * [**Cibele**](http://ninasays.so/cibele/), by Nina Freeman.
 * [**Clonk *series***](http://www.clonk.de/?lng=en), by Matthes Bender.
+* [**Clutter *series***](http://puzzlesbyjoe.com/), by Joe Cassavaugh.
 * [**Crimsonland**](http://www.crimsonland.com/), by Tero Alatalo.
 * [**Cogmind**](http://www.gridsagegames.com/cogmind/), by Josh *Kyzrati* Ge.
 
