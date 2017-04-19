@@ -7,8 +7,10 @@
   <a href="https://travis-ci.org/Yonaba/awesome-one-person-games">
     <img src="https://travis-ci.org/Yonaba/awesome-one-person-games.svg?branch=master" />
   </a>
+  <a href="https://ghit.me/repo/Yonaba/awesome-one-person-games">
+    <img src="https://ghit.me/badge.svg?repo=Yonaba/awesome-one-person-games" />
+  </a>
 </p>
-
 
 > 
 
@@ -97,7 +99,7 @@
 
 ## J
 
-* [**Jumper**](http://www.mattmakesgames.com/games.php), by Matt Thorson.
+* [**Jumper**](http://www.mattmakesgames.com/), by Matt Thorson.
 
 ## K
 
@@ -157,10 +159,10 @@
 ## S
 
 * [**SCP - Containment Breach**](http://scpcbgame.com/), by Joonas Rikkonen.
-* [**Shiny Gauntlet**](https://www.shinygauntlet.com/), by Glen Henry.
+* [**Shiny Gauntlet**](http://spritewrench.com/shiny-gauntlet/), by Glen Henry.
 * [**Shoot First**](http://teknopants.com/2011/05/shoot-first/), by Beau Blyth.
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
-* [**Slender: The Eight Pages**](http://www.parsecproductions.net/slender/), by Mark J. Hadley.
+* [**Slender: The Eight Pages**](https://en.wikipedia.org/wiki/Slender:_The_Eight_Pages), by Mark J. Hadley.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
 * [**SpaceTeam**](http://spaceteam.ca/), by Henry Smith.
 * [**Spelunky classic**](http://www.spelunkyworld.com/original.html), by Derek Yu.
