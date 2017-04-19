@@ -4,6 +4,9 @@
   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
+  <a href="https://github.com/Yonaba/awesome-one-person-games">
+    <img src="https://img.shields.io/badge/one--person-games-brightgreen.svg" />
+  </a>
   <a href="https://travis-ci.org/Yonaba/awesome-one-person-games">
     <img src="https://travis-ci.org/Yonaba/awesome-one-person-games.svg?branch=master" />
   </a>
@@ -13,7 +16,7 @@
 </p>
 
 
-<p align="center">:sparkles: *Contributions are welcome and wanted! Please refer to [contributing](contributing.md) for details.* :sparkles: </p>
+<p align="center">:sparkles: <em>Contributions are welcome and wanted! Please refer to <a href="https://github.com/Yonaba/awesome-one-person-games/blob/master/contributing.md">contributing</a> for details.</em> :sparkles: </p>
 
 ## Contents
 [0](#0) • [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [X](#x) • [Y](#y) • [Z](#z)
@@ -250,14 +253,15 @@
 
 *Discover other amazingly awesome lists.* :sparkles:
 
-* [The Awesome Projet](https://github.com/sindresorhus/awesome), by [@sindresorhus.](https://github.com/sindresorhus).
+* [The Awesome Projet](https://github.com/sindresorhus/awesome), by [@sindresorhus](https://github.com/sindresorhus).
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness), by [@bayandin](https://github.com/bayandin).
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Roland Yonaba](http://github.com/Yonaba/) has waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE) for details.
+To the extent possible under law, [Roland Yonaba](http://github.com/Yonaba/) has waived all copyright and related or neighboring rights to this work. <br>
+See [LICENSE](LICENSE) for details.
 
 
 **[⬆ Back to top](#contents)**
