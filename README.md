@@ -116,7 +116,7 @@
 ## M
 
 * [**Mahjong Solitaire**](https://en.wikipedia.org/wiki/Mahjong_solitaire), by Brodie Lockard.
-* [**Maldita Castilla**](https://www.locomalito.com/maldita_castilla.php), by Locomalito.
+* [**Maldita Castilla**](https://www.locomalito.com/maldita_castilla.php), by Juan Antonio Becerra.
 * [**Mari0**](http://stabyourself.net/mari0/), by Maurice Guégan.
 * [**M.A.V.**](https://bombdogstudios.com), by Chad Mauldin.
 * [**Meganoid(2017)**](http://www.orangepixel.net/meganoid/), by Pascal Bestebroer.
