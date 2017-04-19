@@ -146,6 +146,7 @@
 ## P
 
 * [**Papers, Please**](http://papersplea.se/), by Lucas *Dukope* Pope.
+* [**Pinstripe**](http://pinstripegame.com/), by Thomas Brush.
 * [**Prince Of Persia**](http://www.jordanmechner.com/projects/prince-of-persia/), Jordan Mechner.
 * [**Power-Up**](http://www.psychoticpsoftware.com/thegames_powerup.html), by Mike Hanson.
 
