@@ -13,7 +13,7 @@
 </p>
 
 
-*Contributions are welcome and wanted! Please refer to [contributing](contributing.md) for details.*
+<p align="center">:sparkles: *Contributions are welcome and wanted! Please refer to [contributing](contributing.md) for details.* :sparkles: </p>
 
 ## Contents
 [0](#0) • [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [X](#x) • [Y](#y) • [Z](#z)
@@ -236,6 +236,22 @@
 * [Redbull - *One man band: The amazing games made by solo devs*](http://www.redbull.com/en/games/stories/1331641596875/one-man-band-the-amazing-games-made-by-solo-devs)
 * [RollingStone - *Solo Indie Game Development – Not for Faint of Heart*](http://www.rollingstone.com/culture/news/solo-indie-game-development-not-for-faint-of-heart-20160603)
 * [Reddit - *Best games developed by a solo developer*](https://www.reddit.com/r/IndieGaming/comments/3y2kmr/best_games_developed_by_a_solo_developer/?st=j1ns5hrz&sh=793ed0d3)
+
+## Other Awesome Related lists
+
+*Discover other awesome lists related to gaming.* :sparkles:
+ 
+* [Awesome game development tools](https://github.com/ellisonleao/magictools), by [@ellisonleao](https://github.com/ellisonleao).
+* [Awesome game talks](https://github.com/hzoo/awesome-gametalks), by [@hzoo](https://github.com/hzoo).
+* [Awesome open source games](https://github.com/leereilly/games), by [@leereilly](https://github.com).
+* [Other Awesome gaming related lists](https://github.com/sindresorhus/awesome#gaming).
+
+## More Awesome
+
+*Discover other amazingly awesome lists.* :sparkles:
+
+* [The Awesome Projet](https://github.com/sindresorhus/awesome), by [@sindresorhus.](https://github.com/sindresorhus).
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness), by [@bayandin](https://github.com/bayandin).
 
 ## License
 
