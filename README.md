@@ -12,7 +12,8 @@
   </a>
 </p>
 
-> 
+
+*Contributions are welcome and wanted! Please refer to [contributing](contributing.md) for details.*
 
 ## Contents
 [0](#0) • [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [X](#x) • [Y](#y) • [Z](#z)
@@ -236,15 +237,11 @@
 * [RollingStone - *Solo Indie Game Development – Not for Faint of Heart*](http://www.rollingstone.com/culture/news/solo-indie-game-development-not-for-faint-of-heart-20160603)
 * [Reddit - *Best games developed by a solo developer*](https://www.reddit.com/r/IndieGaming/comments/3y2kmr/best_games_developed_by_a_solo_developer/?st=j1ns5hrz&sh=793ed0d3)
 
-## Contributing
-
-Please refer to [contributing](contributing.md) for details on how to conttribute to this list.
-
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Roland Yonaba](http://github.com/Yonaba/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Roland Yonaba](http://github.com/Yonaba/) has waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE) for details.
 
 
 **[⬆ Back to top](#contents)**
