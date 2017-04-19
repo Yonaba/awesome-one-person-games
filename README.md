@@ -1,6 +1,16 @@
-## Awesome One Person Games [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# <p align="center">:video_game:  Awesome One Person Games  :video_game:
+<p align="center">A curated list of successul games, made entirely (or quite) entirely by a lone gamedev.</p>
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  </a>
+  <a href="https://travis-ci.org/Yonaba/awesome-one-person-games">
+    <img src="https://travis-ci.org/Yonaba/awesome-one-person-games.svg?branch=master" />
+  </a>
+</p>
 
-> A curated list of successul games, made entirely (or quite) entirely by a lone gamedev.
+
+> 
 
 ## Contents
 [0](#0) • [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [X](#x) • [Y](#y) • [Z](#z)
@@ -212,7 +222,6 @@
 
 * [**Zombox**](http://www.zombox.net/), by Tyson Ibele.
 
-
 ## Sources
 
 * [Quora thread - *What are the best games designed and built by only one person ?*](https://www.quora.com/What-are-the-best-games-designed-and-built-by-only-one-person)
@@ -234,3 +243,6 @@ Please refer to [contributing](contributing.md) for details on how to conttribut
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Roland Yonaba](http://github.com/Yonaba/) has waived all copyright and related or neighboring rights to this work.
+
+
+**[⬆ Back to top](#contents)**
