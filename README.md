@@ -273,4 +273,6 @@ To the extent possible under law, [Roland Yonaba](http://github.com/Yonaba/) has
 See [LICENSE](LICENSE) for details.
 
 
+**Collected with :heart: by [Roland](http://github.com/Yonaba/) and all [these awesome people](https://github.com/Yonaba/awesome-one-person-games/graphs/contributors)**.
+
 **[⬆ Back to top](#contents)**
