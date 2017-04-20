@@ -131,6 +131,7 @@
 * [**MechCorp**](http://song-gamedev.blogspot.co.uk/p/mechcorp-working-title.html), by K. Song Tan.
 * [**Meganoid(2017)**](http://www.orangepixel.net/meganoid/), by Pascal Bestebroer.
 * [**Meridian: New World**](http://meridian-game.com/), by Ede Tarsoly.
+* [**Metanet Hunter *series***](https://nightkawata.itch.io/), by Kawata.
 * [**Minecraft**](https://minecraft.net), by Markus *Notch* Persson.
 * [**Minesheeper**](http://www.minesheeper.com/), by Darby Costello.
 * [**Moonman**](http://moonman.io/), by Ben Porter.
