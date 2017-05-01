@@ -83,7 +83,6 @@
 
 * [**Geometry Wars: Retro Evolved**](https://en.wikipedia.org/wiki/Geometry_Wars:_Retro_Evolved), by Stephen Cakebread.
 * [**Gnomes Vs Fairies: Greckel's Quest**](http://www.gnomesvsfairies.com/), by Dano Kablamo.
-* [**Going Home - A Pixelated Horror Game**](http://gamejolt.com/games/goinghome/237280), by Brandon Blanker Lim-it.
 * [**Grand Prix 2**](https://en.wikipedia.org/wiki/Grand_Prix_2), by Geoff Hammond.
 * [**Gravity Bone**](http://blendogames.com/older.htm#gravitybone), by Brendon *Blendo* Chung.
 * [**Guardians Of Altarris**](http://www.shockwave.com/gamelanding/guardians.jsp), by Scott Stoddard.
@@ -173,6 +172,7 @@
 ## S
 
 * [**SCP - Containment Breach**](http://scpcbgame.com/), by Joonas Rikkonen.
+* [**Seen**](http://polychromagames.com/gseen/), by Mickole Klein Nulud.
 * [**Shiny Gauntlet**](http://spritewrench.com/shiny-gauntlet/), by Glen Henry.
 * [**Shoot First**](http://teknopants.com/2011/05/shoot-first/), by Beau Blyth.
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
