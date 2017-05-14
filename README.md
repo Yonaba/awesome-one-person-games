@@ -178,6 +178,7 @@
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
 * [**Slender: The Eight Pages**](https://en.wikipedia.org/wiki/Slender:_The_Eight_Pages), by Mark J. Hadley.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
+* [**Solar Realms Elite**](http://breakintochat.com/wiki/Solar_Realms_Elite), by Amit Patel.
 * [**SpaceTeam**](http://spaceteam.ca/), by Henry Smith.
 * [**Spelunky classic**](http://www.spelunkyworld.com/original.html), by Derek Yu.
 * [**Stardew Valley**](http://stardewvalley.net/), by Eric Barone.
