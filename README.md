@@ -183,6 +183,7 @@
 * [**Spelunky classic**](http://www.spelunkyworld.com/original.html), by Derek Yu.
 * [**Stardew Valley**](http://stardewvalley.net/), by Eric Barone.
 * [**Star Guard**](http://vacuumflowers.com/projects), by Loren *Sparky* Schmidt.
+* [**Star Raiders**](https://en.wikipedia.org/wiki/Star_Raiders), by Doug Neubauer.
 * [**Startup Company: The Game**](http://www.startupcompanygame.com), by Jonas Hovgaard.
 * [**Stasis**](http://www.stasisgame.com), by Christopher Bischoff.
 * [**Stephen's Sausage Roll**](http://www.stephenssausageroll.com/), by Stephen Lavelle.
