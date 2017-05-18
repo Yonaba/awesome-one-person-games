@@ -1,5 +1,5 @@
-# <p align="center">:video_game:  Awesome One Person Games  :video_game:
-<p align="center">A curated list of successul games, made entirely (or quite) entirely by a lone gamedev.<br/>
+![AWESOME ONE PERSON GAMES](Awesome-One-Person-Games-Logo.png)
+<p align="center">
 <em>Inspired by the <a href="https://github.com/sindresorhus/awesome">awesome</a> list thing.</em></p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -17,7 +17,7 @@
 </p>
 
 
-<br/><p align="center">:sparkles: <em>Contributions are welcome and wanted! Please refer to <a href="https://github.com/Yonaba/awesome-one-person-games/blob/master/contributing.md">contributing</a> for details.</em> :sparkles: </p>
+<p align="center">:sparkles: <em>Contributions are welcome and wanted! Please refer to <a href="https://github.com/Yonaba/awesome-one-person-games/blob/master/contributing.md">contributing</a> for details.</em> :sparkles: </p>
 
 ## Contents
 [0](#0) • [A](#a) • [B](#b) • [C](#c) • [D](#d) • [E](#e) • [F](#f) • [G](#g) • [H](#h) • [I](#i) • [J](#j) • [K](#k) • [L](#l) • [M](#m) • [N](#n) • [O](#o) • [P](#p) • [Q](#q) • [R](#r) • [S](#s) • [T](#t) • [U](#u) • [V](#v) • [W](#w) • [X](#x) • [Y](#y) • [Z](#z)
