@@ -268,7 +268,7 @@
 
 *Discover other amazingly awesome lists.* :sparkles:
 
-* [The Awesome Projet](https://github.com/sindresorhus/awesome), by [@sindresorhus](https://github.com/sindresorhus).
+* [The Awesome Project](https://github.com/sindresorhus/awesome), by [@sindresorhus](https://github.com/sindresorhus).
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness), by [@bayandin](https://github.com/bayandin).
 
 ## License
