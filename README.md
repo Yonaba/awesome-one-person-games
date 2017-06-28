@@ -83,7 +83,7 @@
 
 * [**Geometry Wars: Retro Evolved**](https://en.wikipedia.org/wiki/Geometry_Wars:_Retro_Evolved), by Stephen Cakebread.
 * [**Gnomes Vs Fairies: Greckel's Quest**](http://www.gnomesvsfairies.com/), by Dano Kablamo.
-* [**Going Home**](gamejolt.com/games/goinghome/237280), by Brandon Blanker Lim-it
+* [**Going Home**](http://gamejolt.com/games/goinghome/237280), by Brandon Blanker Lim-it.
 * [**Grand Prix 2**](https://en.wikipedia.org/wiki/Grand_Prix_2), by Geoff Hammond.
 * [**Gravity Bone**](http://blendogames.com/older.htm#gravitybone), by Brendon *Blendo* Chung.
 * [**Guardians Of Altarris**](http://www.shockwave.com/gamelanding/guardians.jsp), by Scott Stoddard.
