@@ -202,7 +202,7 @@
 * [**The Dungeoning**](http://www.thedungeoning.com/), by Nick Donnelly.
 * [**The Escapists**](http://escapistgame.com/), by Chris Davis.
 * [**The Floor Is Jelly**](https://thefloorisjelly.com/), by Ian Snyder.
-* [**The Language of the Gods**](https://ladybenko.itch.io/the-language-of-the-gods-ld36), by Belén Albeza
+* [**The Language of the Gods**](https://ladybenko.itch.io/the-language-of-the-gods-ld36), by Belén Albeza.
 * [**The Music Machine**](http://store.steampowered.com/app/359040/), by David Szymanski.
 * [**Thirty Flights Of Loving**](http://blendogames.com/thirtyflightsofloving/), by Brendon *Blendo* Chung.
 * [**Thomas Was Alone**](http://www.mikebithellgames.com/thomaswasalone/), by Mike Bithell.
