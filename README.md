@@ -176,6 +176,7 @@
 * [**Seen**](http://polychromagames.com/gseen/), by Mickole Klein Nulud.
 * [**Shiny Gauntlet**](http://spritewrench.com/shiny-gauntlet/), by Glen Henry.
 * [**Shoot First**](http://teknopants.com/2011/05/shoot-first/), by Beau Blyth.
+* [**Sky Panic**](https://ladybenko.itch.io/sky-panic), by Belén Albeza.
 * [**Sleep Is Death**](http://sleepisdeath.net/), by Jason Rohrer.
 * [**Slender: The Eight Pages**](https://en.wikipedia.org/wiki/Slender:_The_Eight_Pages), by Mark J. Hadley.
 * [**Snayke**](http://www.indiedb.com/games/snayke), by Alex Szpakowsky.
