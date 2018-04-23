@@ -198,6 +198,7 @@
 * [**Tales of the Underworld: Rebellion of the Souls**](https://ladybenko.itch.io/tales-of-the-underworld), by Belén Albeza.
 * [**Telepath Tactics**](http://sinisterdesign.net/products/telepath-tactics/), by Craig Stern.
 * [**Tempest 2000**](https://en.wikipedia.org/wiki/Tempest_2000), by Jeff Minter.
+* [**Terra Genesis**](https://www.terra-genesis.com/), by Alexander Winn.
 * [**Terrartisan**](https://ladybenko.itch.io/terrartisan), by Belén Albeza.
 * [**Tetris**](https://en.wikipedia.org/wiki/Tetris), by Alexei Pajitnov.
 * [**The Consuming Shadow**](http://www.theconsumingshadow.com/), by Ben *Yahtzee* Croshaw.
