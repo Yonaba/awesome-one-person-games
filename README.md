@@ -24,7 +24,7 @@
 
 ## 0
 
-* [**0space**](http://teknopants.com/2012/04/0space/), by Beau Blyth.
+* [**0space**](https://teknopants.itch.io/0space), by Beau Blyth.
 
 ## A
 
