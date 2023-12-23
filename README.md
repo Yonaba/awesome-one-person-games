@@ -140,18 +140,19 @@
 
 ## N
 
+* [**Nidhogg**](http://nidhogggame.com/), by Mark Essen.
 * [**No Heroes**](https://drunkenlizardgames.com/no-heroes/), by Tiago.
 * [**Noitu Love**](http://www.konjak.org/), by Joakim Sandberg.
 
 ## O
 
-* [**Nidhogg**](http://nidhogggame.com/), by Mark Essen.
 * [**OBEY**](http://obeygame.com/), by Dan Dez.
+* [**One Dreamer**](https://www.one-dreamer.com/), by Gareth Ffoulkes.
 * [**osu!**](https://osu.ppy.sh), by Dean Herbert.
 
 ## P
 
-* [**Papers, Please**](http://store.steampowered.com/app/239030/Papers_Please/), by Lucas *Dukope* Pope.
+* [**Papers, Please**](https://papersplea.se/), by Lucas *Dukope* Pope.
 * [**Pinstripe**](http://pinstripegame.com/), by Thomas Brush.
 * [**Prince Of Persia**](http://www.jordanmechner.com/projects/prince-of-persia/), Jordan Mechner.
 * [**Power-Up**](http://www.psychoticpsoftware.com/thegames_powerup.html), by Mike Hanson.
