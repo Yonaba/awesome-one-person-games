@@ -63,7 +63,8 @@
 * [**Domina**](http://www.dominagame.com/), by DolphinBarn.
 * [**Dust: An Elysian Tail**](http://www.noogy.com/main.html), by Dean Dodrill.
 * [**Dwarf Fortress**](http://www.bay12games.com/dwarves/), by Tarn Adams.
-
+* [**Dr.Mario**](ttps://classicjoy.games/games/dr-mario), by Nintendo
+  
 ## E
 
 * [**End Space**](http://endspacevr.com/), by Justin Wasilenko.
