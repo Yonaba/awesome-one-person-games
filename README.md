@@ -267,6 +267,7 @@
 *Discover other awesome lists related to gaming.* :sparkles:
  
 * [Awesome game development tools](https://github.com/ellisonleao/magictools), by [@ellisonleao](https://github.com/ellisonleao).
+* [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 * [Awesome game talks](https://github.com/hzoo/awesome-gametalks), by [@hzoo](https://github.com/hzoo).
 * [Awesome open source games](https://github.com/leereilly/games), by [@leereilly](https://github.com).
 * [Other Awesome gaming related lists](https://github.com/sindresorhus/awesome#gaming).
